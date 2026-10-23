@@ -6,7 +6,7 @@
     <message>
         <location filename="../../src/maindialog.ui" line="14"/>
         <source>Special Effect Settings</source>
-        <translation>Eragin Berezien Ezarpenak</translation>
+        <translation>Efektu berezien ezarpenak</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="367"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="../../src/maindialog.ui" line="380"/>
         <source>Detect _NET_WM_OPACITY on client windows</source>
-        <translation>Detektatu _NET_WM_OPACITY bezeroaren leihoetan</translation>
+        <translation>Detektatu _NET_WM_OPACITY bezero-leihoetan</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="387"/>
         <source>Try to detect windows with rounded corners</source>
-        <translation>Saiatu ertz biribildutako leihoak hautematen</translation>
+        <translation>Saiatu izkina biribilduak dituzten leihoak detektatzen</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="394"/>
@@ -36,7 +36,7 @@
     <message>
         <location filename="../../src/maindialog.ui" line="401"/>
         <source>Force all windows to be painted with blending</source>
-        <translation>Behartu leiho guztiak nahastuz margotzera</translation>
+        <translation>Behartu leiho guztiak nahasketarekin margotzera</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="408"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../../src/maindialog.ui" line="415"/>
         <source>Try to detect WM windows and mark them as active</source>
-        <translation>Saiatu WM leihoak detektatzen eta markatu aktibo gisa</translation>
+        <translation>Saiatu WM leihoak detektatzen eta aktibo gisa markatzen</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="422"/>
@@ -56,7 +56,7 @@
     <message>
         <location filename="../../src/maindialog.ui" line="429"/>
         <source>Use _NET_WM_ACTIVE_WINDOW to determine which window is focused</source>
-        <translation>Erabili _NET_WM_ACTIVE_WINDOW zein leiho fokatuta dagoen zehazteko</translation>
+        <translation>Erabili _NET_WM_ACTIVE_WINDOW fokuratuta dagoen leihoa zehazteko</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="24"/>
@@ -67,32 +67,32 @@
     <message>
         <location filename="../../src/maindialog.ui" line="37"/>
         <source>The blur radius for shadows</source>
-        <translation></translation>
+        <translation>Itzalen lausotze-erradioa</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="47"/>
         <source>The left offset for shadows</source>
-        <translation></translation>
+        <translation>Itzalen ezkerrerako desplazamendua</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="61"/>
         <source>The top offset for shadows</source>
-        <translation></translation>
+        <translation>Itzalen goranzko desplazamendua</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="75"/>
         <source>The translucency for shadows</source>
-        <translation></translation>
+        <translation>Itzalen zeharrargitasuna</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="92"/>
         <source>Color of shadow</source>
-        <translation></translation>
+        <translation>Itzalaren kolorea</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="516"/>
         <source>Do not fade destroyed ARGB windows with WM frame</source>
-        <translation>Ez itzali suntsitutako ARGB leihoak WM markoarekin</translation>
+        <translation>Ez lausotu WM markoa duten suntsitutako ARGB leihoak</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="542"/>
@@ -107,115 +107,115 @@
     <message>
         <location filename="../../src/maindialog.ui" line="555"/>
         <source>Use glFinish() instead of glFlush() for (possibly) better VSync</source>
-        <translation>Erabili glFinish() glFlush()-ren ordez VSync (baliteke) hobea izateko</translation>
+        <translation>Erabili glFinish() glFlush()en ordez, (agian) VSync hobea lortzeko</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="562"/>
         <source>Enable the use of damage information to help limit the area to paint</source>
-        <translation>Gaitu kalteen informazioa erabiltzea margotzeko eremua mugatzen laguntzeko</translation>
+        <translation>Gaitu kalte-informazioa erabiltzea margotu beharreko eremua mugatzen laguntzeko</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="294"/>
         <source>Backend</source>
-        <translation>Backend-a</translation>
+        <translation>Atzeko motorra</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="30"/>
         <source>Enable client-side shadows on windows</source>
-        <translation></translation>
+        <translation>Gaitu bezero-aldeko itzalak leihoetan</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="106"/>
         <source>Crop shadows of maximized windows from extended displays</source>
-        <translation></translation>
+        <translation>Moztu maximizatutako leihoen itzalak pantaila hedatuetatik</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="114"/>
         <location filename="../../src/maindialog.ui" line="526"/>
         <source>Opacity</source>
-        <translation></translation>
+        <translation>Opakutasuna</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="120"/>
         <source>Default opacity of inactive windows</source>
-        <translation></translation>
+        <translation>Leiho inaktiboen opakutasun lehenetsia</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="137"/>
         <source>Default opacity for active windows</source>
-        <translation></translation>
+        <translation>Leiho aktiboen opakutasun lehenetsia</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="154"/>
         <source>Opacity of window titlebars and borders</source>
-        <translation></translation>
+        <translation>Leihoen titulu-barren eta ertzen opakutasuna</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="171"/>
         <source>Dim inactive windows</source>
-        <translation></translation>
+        <translation>Ilundu leiho inaktiboak</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="188"/>
         <source>Do not let dimness adjust based on window opacity</source>
-        <translation></translation>
+        <translation>Ez utzi iluntasuna leihoaren opakutasunaren arabera doitzen</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="195"/>
         <source>Blur background of transparent windows</source>
-        <translation></translation>
+        <translation>Lausotu leiho gardenen atzeko planoa</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="202"/>
         <source>Blur background of opaque windows with transparent frames as well</source>
-        <translation></translation>
+        <translation>Lausotu marko gardenak dituzten leiho opakoen atzeko planoa ere</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="209"/>
         <source>Do not let blur radius adjust based on window opacity</source>
-        <translation></translation>
+        <translation>Ez utzi lausotze-erradioa leihoaren opakutasunaren arabera doitzen</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="532"/>
         <source>Inactive opacity set by -i overrides _NET_WM_OPACITY values</source>
-        <translation>-i-k ezarritako opakutasun inaktiboak _NET_WM_OPACITY balioak gainidazten ditu</translation>
+        <translation>-i bidez ezarritako leiho inaktiboen opakutasunak _NET_WM_OPACITY balioak gainidazten ditu</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="217"/>
         <location filename="../../src/maindialog.ui" line="510"/>
         <location filename="../../src/maindialog.cpp" line="334"/>
         <source>Fade</source>
-        <translation></translation>
+        <translation>Iraungitzea</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="223"/>
         <source>Fade windows during opacity changes</source>
-        <translation></translation>
+        <translation>Iraungi leihoak opakutasuna aldatzean</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="230"/>
         <source>The time between steps in a fade in milliseconds</source>
-        <translation></translation>
+        <translation>Iraungitzean urratsen arteko denbora, milisegundotan</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="240"/>
         <source>Opacity change between steps while fading in</source>
-        <translation></translation>
+        <translation>Iraungitzean, sarrerako urratsen arteko opakutasun-aldaketa</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="263"/>
         <source>Opacity change between steps while fading out</source>
-        <translation></translation>
+        <translation>Iraungitzean, irteerako urratsen arteko opakutasun-aldaketa</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="286"/>
         <source>Avoid fade windows in/out when opening/closing</source>
-        <translation></translation>
+        <translation>Saihestu leihoak agertzean/ixtean pixkanaka agertzea/desagertzea</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="300"/>
         <source>Rendering backend</source>
-        <translation></translation>
+        <translation>Errendatze-motorra</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="306"/>
@@ -236,12 +236,12 @@
     <message>
         <location filename="../../src/maindialog.ui" line="439"/>
         <source>Backends</source>
-        <translation>Backendak</translation>
+        <translation>Motorrak</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="451"/>
         <source>Use X Sync fence to sync clients&apos; draw calls (nvidia drivers)</source>
-        <translation>Erabili X Sync hesia bezeroen zozketa-deiak sinkronizatzeko (nvidia kontrolatzaileak)</translation>
+        <translation>Erabili X Sync sinkronizazio-hesia bezeroen marrazketa-deiak sinkronizatzeko (nvidia kontrolatzaileak)</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="461"/>
@@ -251,22 +251,22 @@
     <message>
         <location filename="../../src/maindialog.ui" line="467"/>
         <source>Avoid rebinding pixmap on window damage</source>
-        <translation>Saihestu pixmap birlotzea leiho kalteetan</translation>
+        <translation>Saihestu leihoaren kaltean pixmap berriro lotzea</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="474"/>
         <source>Avoid using stencil buffer</source>
-        <translation>Saihestu txantiloia buffer erabiltzea</translation>
+        <translation>Saihestu stencil bufferra erabiltzea</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="487"/>
         <source>Debug</source>
-        <translation>Araztu</translation>
+        <translation>Arazketa</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="493"/>
         <source>Highlight the updated area of the screen. X Render only</source>
-        <translation>Nabarmendu pantailaren eremu eguneratua.  X Errendatzea soilik</translation>
+        <translation>Nabarmendu pantailaren eguneratutako eremua. X Render bakarrik</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="500"/>
@@ -276,17 +276,17 @@
     <message>
         <location filename="../../src/maindialog.ui" line="582"/>
         <source>About</source>
-        <translation></translation>
+        <translation>Honi buruz</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="327"/>
         <source>Opacity:</source>
-        <translation>Opakotasuna:</translation>
+        <translation>Opakutasuna:</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="333"/>
         <source>Clip shadow above</source>
-        <translation>Klip itzala gainean</translation>
+        <translation>Moztu goiko itzala</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="335"/>
@@ -301,7 +301,7 @@
     <message>
         <location filename="../../src/maindialog.cpp" line="337"/>
         <source>Ignore redirection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez ikusi birbideratzeari</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="443"/>
@@ -324,7 +324,7 @@
     <message>
         <location filename="../../src/dialogabout.ui" line="62"/>
         <source>Thanks</source>
-        <translation>Eskerrik asko</translation>
+        <translation>Eskerrak</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="81"/>
@@ -349,7 +349,7 @@
     <message>
         <location filename="../../src/dialogabout.cpp" line="60"/>
         <source>About</source>
-        <translation>Buruz</translation>
+        <translation>Honi buruz</translation>
     </message>
 </context>
 </TS>

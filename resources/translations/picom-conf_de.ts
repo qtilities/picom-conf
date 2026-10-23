@@ -11,7 +11,7 @@
     <message>
         <location filename="../../src/maindialog.ui" line="337"/>
         <source>Advanced</source>
-        <translation>Fortgeschritten</translation>
+        <translation>Erweitert</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="367"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="../../src/maindialog.ui" line="373"/>
         <source>Use WM_CLIENT_LEADER to group windows</source>
-        <translation>WM_CLIENT_LEADER zum Gruppieren von Fenstern verwenden</translation>
+        <translation>Verwende WM_CLIENT_LEADER zum Gruppieren von Fenstern</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="380"/>
         <source>Detect _NET_WM_OPACITY on client windows</source>
-        <translation>_NET_WM_OPACITY auf Client-Fenstern erkennen</translation>
+        <translation>Erkenne _NET_WM_OPACITY auf Client-Fenstern</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="387"/>
@@ -41,7 +41,7 @@
     <message>
         <location filename="../../src/maindialog.ui" line="401"/>
         <source>Force all windows to be painted with blending</source>
-        <translation type="unfinished"></translation>
+        <translation>Erzwingen, dass alle Fenster mit Mischfarben gezeichnet werden</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="408"/>
@@ -251,7 +251,7 @@
     <message>
         <location filename="../../src/maindialog.ui" line="467"/>
         <source>Avoid rebinding pixmap on window damage</source>
-        <translation type="unfinished">Pixmap-Neubindung bei Fensterbeschädigung vermeiden</translation>
+        <translation>Vermeide Pixmap-Neubindung bei Fensterbeschädigung</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="474"/>
@@ -286,7 +286,7 @@
     <message>
         <location filename="../../src/maindialog.cpp" line="333"/>
         <source>Clip shadow above</source>
-        <translation type="unfinished">Schatten oben abschneiden</translation>
+        <translation>Schatten oben abschneiden</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="335"/>
@@ -301,7 +301,7 @@
     <message>
         <location filename="../../src/maindialog.cpp" line="337"/>
         <source>Ignore redirection</source>
-        <translation type="unfinished">Umleitung ignorieren</translation>
+        <translation>Ignoriere Umleitung</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="443"/>

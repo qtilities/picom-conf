@@ -21,12 +21,12 @@
     <message>
         <location filename="../../src/maindialog.ui" line="373"/>
         <source>Use WM_CLIENT_LEADER to group windows</source>
-        <translation type="unfinished"></translation>
+        <translation>WM_CLIENT_LEADER を使用してウィンドウをグループ化する</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="380"/>
         <source>Detect _NET_WM_OPACITY on client windows</source>
-        <translation type="unfinished"></translation>
+        <translation>クライアントウィンドウで _NET_WM_OPACITY を検出する</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="387"/>
@@ -36,22 +36,22 @@
     <message>
         <location filename="../../src/maindialog.ui" line="394"/>
         <source>Use WM_TRANSIENT_FOR to group windows</source>
-        <translation type="unfinished"></translation>
+        <translation>WM_TRANSIENT_FOR を使用してウィンドウをグループ化する</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="401"/>
         <source>Force all windows to be painted with blending</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのウィンドウをブレンディングでペイントするよう強制する</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="408"/>
         <source>Mark windows that have no WM frame as active</source>
-        <translation type="unfinished"></translation>
+        <translation>WM フレームを持たないウィンドウをアクティブとしてマークする</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="415"/>
         <source>Try to detect WM windows and mark them as active</source>
-        <translation type="unfinished"></translation>
+        <translation>WM ウィンドウを検出し、アクティブとしてマークする</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="422"/>
@@ -61,7 +61,7 @@
     <message>
         <location filename="../../src/maindialog.ui" line="429"/>
         <source>Use _NET_WM_ACTIVE_WINDOW to determine which window is focused</source>
-        <translation type="unfinished"></translation>
+        <translation>_NET_WM_ACTIVE_WINDOW を使用して、どのウィンドウがフォーカスされているかを判断する</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="24"/>
@@ -102,12 +102,12 @@
     <message>
         <location filename="../../src/maindialog.ui" line="516"/>
         <source>Do not fade destroyed ARGB windows with WM frame</source>
-        <translation type="unfinished"></translation>
+        <translation>WM フレームで破壊された ARGB ウィンドウをフェードしない</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="542"/>
         <source>Optimize</source>
-        <translation type="unfinished"></translation>
+        <translation>最適化する</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="548"/>
@@ -117,12 +117,12 @@
     <message>
         <location filename="../../src/maindialog.ui" line="555"/>
         <source>Use glFinish() instead of glFlush() for (possibly) better VSync</source>
-        <translation type="unfinished"></translation>
+        <translation>VSync を改善するため glFlush() の代わりに glFinish() を使用する</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="562"/>
         <source>Enable the use of damage information to help limit the area to paint</source>
-        <translation type="unfinished"></translation>
+        <translation>ペイント範囲を限定するため損傷情報を利用する</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="294"/>
@@ -188,7 +188,7 @@
     <message>
         <location filename="../../src/maindialog.ui" line="532"/>
         <source>Inactive opacity set by -i overrides _NET_WM_OPACITY values</source>
-        <translation type="unfinished"></translation>
+        <translation>-i で設定した非アクティブ時の不透明度は、_NET_WM_OPACITY の値を上書きします</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="217"/>
@@ -241,7 +241,7 @@
     <message>
         <location filename="../../src/maindialog.ui" line="451"/>
         <source>Use X Sync fence to sync clients&apos; draw calls (nvidia drivers)</source>
-        <translation type="unfinished"></translation>
+        <translation>X Sync fence を使用してクライアントの描画コールを同期する (nvidia ドライバー)</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="461"/>
@@ -251,12 +251,12 @@
     <message>
         <location filename="../../src/maindialog.ui" line="467"/>
         <source>Avoid rebinding pixmap on window damage</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウの損傷時に pixmap の再バインドを回避する</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="474"/>
         <source>Avoid using stencil buffer</source>
-        <translation type="unfinished"></translation>
+        <translation>ステンシルバッファの使用を避ける</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="487"/>
@@ -276,27 +276,27 @@
     <message>
         <location filename="../../src/maindialog.ui" line="582"/>
         <source>About</source>
-        <translation>このアプリケーションについて</translation>
+        <translation>About</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="327"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>不透明度:</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="333"/>
         <source>Clip shadow above</source>
-        <translation type="unfinished"></translation>
+        <translation>影を上にクリップ</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="335"/>
         <source>Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>フォーカス</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="336"/>
         <source>Full shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>完全な影</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="337"/>
@@ -314,42 +314,42 @@
     <message>
         <location filename="../../src/dialogabout.ui" line="27"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>情報</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="43"/>
         <source>qrc:/about.html</source>
-        <translation type="unfinished"></translation>
+        <translation>qrc:/about.html</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="62"/>
         <source>Thanks</source>
-        <translation type="unfinished"></translation>
+        <translation>感謝</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="81"/>
         <source>qrc:/thanks.html</source>
-        <translation type="unfinished"></translation>
+        <translation>qrc:/thanks.html</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="100"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>ライセンス</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="116"/>
         <source>qrc:/license.html</source>
-        <translation type="unfinished"></translation>
+        <translation>qrc:/license.html</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.cpp" line="55"/>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>作者</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.cpp" line="60"/>
         <source>About</source>
-        <translation type="unfinished">このアプリケーションについて</translation>
+        <translation>About</translation>
     </message>
 </context>
 </TS>

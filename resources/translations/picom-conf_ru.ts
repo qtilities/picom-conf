@@ -122,7 +122,7 @@
     <message>
         <location filename="../../src/maindialog.ui" line="562"/>
         <source>Enable the use of damage information to help limit the area to paint</source>
-        <translation>Разрешить использование информации об изменениях контента для определения области отрисовки</translation>
+        <translation>Включить использование вспомогательной информации о дефектах для ограничения области окрашивания</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="294"/>

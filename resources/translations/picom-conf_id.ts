@@ -11,7 +11,7 @@
     <message>
         <location filename="../../src/maindialog.ui" line="337"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingkat lanjut</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="367"/>
@@ -97,37 +97,37 @@
     <message>
         <location filename="../../src/maindialog.ui" line="439"/>
         <source>Backends</source>
-        <translation type="unfinished"></translation>
+        <translation>Backend</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="516"/>
         <source>Do not fade destroyed ARGB windows with WM frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Jangan memudarkan jendela ARGB yang rusak dengan bingkai WM</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="542"/>
         <source>Optimize</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengoptimalkan</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="548"/>
         <source>Enable/disable VSync</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan/Nonaktifkan VSync</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="555"/>
         <source>Use glFinish() instead of glFlush() for (possibly) better VSync</source>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan glFinish() daripada glFlush() untuk kemungkinan VSync lebih baik</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="562"/>
         <source>Enable the use of damage information to help limit the area to paint</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan penggunaan informasi kerusakan untuk membantu membatasi area yang akan diwarnai</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="294"/>
         <source>Backend</source>
-        <translation type="unfinished"></translation>
+        <translation>Backend</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="30"/>
@@ -188,7 +188,7 @@
     <message>
         <location filename="../../src/maindialog.ui" line="532"/>
         <source>Inactive opacity set by -i overrides _NET_WM_OPACITY values</source>
-        <translation type="unfinished"></translation>
+        <translation>Opacity tidak aktif yang ditetapkan oleh -i mengganti nilai _NET_WM_OPACITY</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="217"/>
@@ -241,37 +241,37 @@
     <message>
         <location filename="../../src/maindialog.ui" line="451"/>
         <source>Use X Sync fence to sync clients&apos; draw calls (nvidia drivers)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan X Sync untuk menyinkronkan tampilan gambar klien (driver nvidia)</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="461"/>
         <source>GLX</source>
-        <translation type="unfinished"></translation>
+        <translation>GLX</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="467"/>
         <source>Avoid rebinding pixmap on window damage</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindari pengaitan ulang pixmap pada kerusakan jendela</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="474"/>
         <source>Avoid using stencil buffer</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindari penggunaan penyangga stensil</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="487"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Debug</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="493"/>
         <source>Highlight the updated area of the screen. X Render only</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorot area layar yang diperbarui. Hanya X Render</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="500"/>
         <source>Show all X errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan semua kesalahan X</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="582"/>
@@ -281,32 +281,32 @@
     <message>
         <location filename="../../src/maindialog.cpp" line="327"/>
         <source>Opacity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingkat Kegelapan:</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="333"/>
         <source>Clip shadow above</source>
-        <translation type="unfinished"></translation>
+        <translation>Potong bayangan di atas</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="335"/>
         <source>Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>Fokus</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="336"/>
         <source>Full shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Bayangan penuh</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="337"/>
         <source>Ignore redirection</source>
-        <translation type="unfinished"></translation>
+        <translation>Abaikan pengalihan</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="443"/>
         <source>Window Types</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipe Jendela</translation>
     </message>
 </context>
 <context>
@@ -314,42 +314,42 @@
     <message>
         <location filename="../../src/dialogabout.ui" line="27"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informasi</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="43"/>
         <source>qrc:/about.html</source>
-        <translation type="unfinished"></translation>
+        <translation>qrc:/about.html</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="62"/>
         <source>Thanks</source>
-        <translation type="unfinished"></translation>
+        <translation>Terima kasih</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="81"/>
         <source>qrc:/thanks.html</source>
-        <translation type="unfinished"></translation>
+        <translation>qrc:/thanks.html</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="100"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisensi</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="116"/>
         <source>qrc:/license.html</source>
-        <translation type="unfinished"></translation>
+        <translation>qrc:/license.html</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.cpp" line="55"/>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Penulis</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.cpp" line="60"/>
         <source>About</source>
-        <translation type="unfinished">Tentang</translation>
+        <translation>Tentang</translation>
     </message>
 </context>
 </TS>

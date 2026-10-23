@@ -148,12 +148,12 @@
     <message>
         <location filename="../../src/maindialog.ui" line="337"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>ਤਕਨੀਕੀ</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="439"/>
         <source>Backends</source>
-        <translation type="unfinished"></translation>
+        <translation>ਬੈਕਐਂਡ</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="532"/>
@@ -246,7 +246,7 @@
     <message>
         <location filename="../../src/maindialog.ui" line="461"/>
         <source>GLX</source>
-        <translation type="unfinished"></translation>
+        <translation>GLX</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.ui" line="467"/>
@@ -291,7 +291,7 @@
     <message>
         <location filename="../../src/maindialog.cpp" line="335"/>
         <source>Focus</source>
-        <translation type="unfinished"></translation>
+        <translation>ਫੋਕਸ</translation>
     </message>
     <message>
         <location filename="../../src/maindialog.cpp" line="336"/>
@@ -334,7 +334,7 @@
     <message>
         <location filename="../../src/dialogabout.ui" line="100"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>ਲਸੰਸ</translation>
     </message>
     <message>
         <location filename="../../src/dialogabout.ui" line="116"/>
